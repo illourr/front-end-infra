@@ -1,0 +1,24 @@
+{
+  "name": "html5slots",
+  "version": "0.0.0",
+  "authors": [
+    "Dillon Curry <dilloncurry@gmail.com>"
+  ],
+  "description": "html5 slots game built with craftyjs",
+  "main": "index.js",
+  "keywords": [
+    "html5",
+    "game",
+    "craftyjs",
+    "slots"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/vendor",
+    "test",
+    "tests"
+  ]
+}
